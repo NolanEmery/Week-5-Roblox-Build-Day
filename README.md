@@ -26,7 +26,9 @@ How should you split your website up? (ex. "What is Build Day?", "How it Works",
 Include a day schedule, and why people should sign up.
 
 Test It:
+
 Add images of a day at the event at the top of the page. Make it clear that this is a Roblox event. Make it more convincing why a person would sign up.
 
 Expand It:
+
 Challenge and teamwork-based. Not a gaming environment.
